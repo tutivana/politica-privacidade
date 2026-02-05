@@ -26,7 +26,7 @@ Mesmo não coletando dados pessoais, nos preocupamos com a segurança do aplicat
 
 6. Público-alvo
 
-O aplicativo é destinado a usuários com 13 anos de idade ou mais.
+O aplicativo é destinado a usuários com 3 anos de idade ou mais.
 
 7. Alterações nesta Política
 

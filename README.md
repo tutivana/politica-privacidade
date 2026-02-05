@@ -19,7 +19,7 @@ O aplicativo não compartilha dados com terceiros.
 
 4. Anúncios
 
-Atualmente, o aplicativo não exibe anúncios.
+O aplicativo exibe anúncios.
 
 5. Segurança
 

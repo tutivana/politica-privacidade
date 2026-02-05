@@ -1,4 +1,3 @@
-# Política de Privacidade
 Política de privacidade do Quiz App
 
 Esta Política de Privacidade descreve como o aplicativo Quiz App Master CH (mz.co.quizappmasterch) trata as informações dos usuários.
